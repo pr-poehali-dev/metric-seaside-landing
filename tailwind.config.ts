@@ -61,7 +61,11 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				// Telegram colors
+				'telegram-blue': '#0EA5E9',
+				'telegram-light': '#00A0DC',
+				'telegram-dark': '#0088CC'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
